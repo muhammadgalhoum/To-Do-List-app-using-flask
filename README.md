@@ -26,11 +26,11 @@
 
 ![Uncompleted Tasks](Images/Uncompleted%20Tasks.PNG)
 
-### 7. Updating Completed Task name or status
+### 7. Updating Completed Task name or status or description
 
 ![Edit Completed Task](Images/Edit%20Completed%20Task.PNG)
 
-### 8. Updating UnCompleted Task name or status
+### 8. Updating UnCompleted Task name or status or description
 
 ![Edit UnCompleted Task](Images/Edit%20Uncompleteed%20Task.PNG)
 
